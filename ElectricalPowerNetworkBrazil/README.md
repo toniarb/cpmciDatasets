@@ -1,7 +1,13 @@
 ### MD5 Hashes:
+
 fbef59833a3d84d6f2b149b58a4aca1d  analysis_results.ods
+
 0d955db1fd95bb561f950098282fc660  edges_dataset.csv
+
 befd590ae08ab54ddc96932299cc3438  nodes_dataset.csv
+
 b1c7318f303e131036a7ba0eb1d7bfb7  φ_edges.csv
+
 f07e3c9270e852df724f71bcb98a33d0  φ_node_social.csv
+
 44f10fb0bae04dabf01b5cd795e1fb46  φ_node_technical.csv
